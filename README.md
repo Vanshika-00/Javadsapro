@@ -70,21 +70,24 @@ Javadsapro/
 └── .gitignore
 
 
-## 🎯 Purpose of This Repo
-
-- 📦 Back up my Java + DSA course progress  
-- 📝 Practice using Git and GitHub for version control  
-- 📊 Build a public portfolio of my coding journey  
-- 🗒️ Document useful notes, code patterns, and problem-solving strategies  
 
 ---
 
-## 👨‍🏫 Mentors & Details
+## 🎯 Purpose of This Repo
 
-- **Instructor:** Syed Zabi Ulla, Raghav Garg  
-- **Platform:** [PW Skills](https://pwskills.com)  
-- **Student:** Vanshika  
-- **Repo:** Javadsapro  
+- 📦 Back up my Java + DSA course progress  
+- 📒 Practice using Git and GitHub for version control  
+- 🌐 Build a public portfolio of my coding journey  
+- 📝 Document useful notes, code patterns, and problem-solving strategies  
+
+---
+
+## 🎓 Mentors & Details
+
+- **Instructor**: Syed Zabi Ulla, Raghav Garg  
+- **Platform**: PW Skills  
+- **Student**: Vanshika  
+- **Repo**: Javadsapro  
 
 ---
 
