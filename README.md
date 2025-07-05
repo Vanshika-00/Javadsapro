@@ -52,26 +52,6 @@ The course is structured in career-centric phases, covering everything from **Ja
 
 ---
 
-## 💾 Folder Structure
-
-```plaintext
-Javadsapro/
-├── Phase-1-Basics/
-├── Phase-2-OOPS/
-├── Phase-3-DSA-Foundation/
-├── Phase-4-Core-DSA/
-├── Phase-5-Advanced-DSA/
-├── Projects/
-│   ├── Library-Management-System/
-│   ├── Hospital-Management-System/
-│   └── Guesser-Game/
-├── Notes/
-├── README.md
-└── .gitignore
-
-
-
----
 
 ## 🎯 Purpose of This Repo
 
@@ -92,3 +72,25 @@ Javadsapro/
 ---
 
 > _"Code it clean. Code it proud."_ 🔥
+
+
+## 💾 Folder Structure
+
+```plaintext
+Javadsapro/
+├── Phase-1-Basics/
+├── Phase-2-OOPS/
+├── Phase-3-DSA-Foundation/
+├── Phase-4-Core-DSA/
+├── Phase-5-Advanced-DSA/
+├── Projects/
+│   ├── Library-Management-System/
+│   ├── Hospital-Management-System/
+│   └── Guesser-Game/
+├── Notes/
+├── README.md
+└── .gitignore
+
+
+
+
