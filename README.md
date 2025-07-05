@@ -69,6 +69,8 @@ Javadsapro/
 ├── README.md
 └── .gitignore
 
+---
+
 🎯 Purpose of This Repo
 
 📦 Back up my Java + DSA course progress
@@ -79,15 +81,20 @@ Javadsapro/
 
 🗒️ Document useful notes, code patterns, and problem-solving strategies
 
+---
+
 👨‍🏫 Mentors & Details
 
-Instructor: Syed Zabi Ulla, Raghav Garg
+- Instructor: Syed Zabi Ulla, Raghav Garg
 
-Platform: PW Skills
+- Platform: PW Skills
 
-Student: Vanshika
+- Student: Vanshika
 
-Repo: Javadsapro
+- Repo: Javadsapro
 
-Code it clean. Code it proud. 🚀
+---
+
+> _"Code it like you mean it."_ 🔥
+
 ```
