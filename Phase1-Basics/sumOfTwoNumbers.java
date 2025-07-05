@@ -11,6 +11,7 @@ public class sumOfTwoNumbers {
         int b =sc.nextInt();
 
         System.out.println("The sum is:" +  (a+ b));
+        sc.close();
 
 
     }

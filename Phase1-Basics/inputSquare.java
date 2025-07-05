@@ -9,7 +9,7 @@ public class inputSquare {
 
         n=n*n;
         System.out.println("The square is: " + n );
-        
+        sc.close();
     }
     
 }

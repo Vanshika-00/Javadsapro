@@ -9,6 +9,8 @@ public class areaOfCircleInput {
         double a=3.141592*r*r;
         System.out.println("Area is: " + a);
 
+        sc.close();
+
 
     }
     
