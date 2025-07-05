@@ -69,32 +69,24 @@ Javadsapro/
 ├── README.md
 └── .gitignore
 
----
 
-🎯 Purpose of This Repo
+## 🎯 Purpose of This Repo  
 
-📦 Back up my Java + DSA course progress
-
-📝 Practice using Git and GitHub for version control
-
-📊 Build a public portfolio of my coding journey
-
-🗒️ Document useful notes, code patterns, and problem-solving strategies
+- 📦 Back up my Java + DSA course progress  
+- 📝 Practice using Git and GitHub for version control  
+- 📊 Build a public portfolio of my coding journey  
+- 🗒️ Document useful notes, code patterns, and problem-solving strategies  
 
 ---
 
-👨‍🏫 Mentors & Details
+## 👨‍🏫 Mentors & Details  
 
-- Instructor: Syed Zabi Ulla, Raghav Garg
-
-- Platform: PW Skills
-
-- Student: Vanshika
-
-- Repo: Javadsapro
+- **Instructor**: Syed Zabi Ulla, Raghav Garg  
+- **Platform**: PW Skills
+- **Student**: Vanshika  
+- **Repo**: Javadsapro  
 
 ---
 
-> _"Code it like you mean it."_ 🔥
+> _"Code it clean. Code it proud."_ 🔥
 
-```
