@@ -23,6 +23,8 @@ public class palindromeString {
         if (isPalindrome) System.out.println("Yes, it's a palindrome.");
         else System.out.println("Nope, not a palindrome.");
         sc.close();
+
+        
     }
     
 }
