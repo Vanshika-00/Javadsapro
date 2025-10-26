@@ -1,33 +1,24 @@
-class Person {
-    public String name;
-    public String address;
-    public int age;
-}
+class plsadd{
 
-class Student extends Person {
-    public int marks;
-    public String grade;
-
-    Student(String name, String address, int age, int marks, String grade) {
-        this.name = name;
-        this.address = address;
-        this.age = age;
-        this.marks = marks;
-        this.grade = grade;
+    public void add(int a , int b){
+        System.out.println("int-int argument");
     }
-
-    public void disp() {
-        System.out.println("Name: " + name);
-        System.out.println("Address: " + address);
-        System.out.println("Age: " + age);
-        System.out.println("Marks: " + marks);
-        System.out.println("Grade: " + grade);
+    public void add(float a , float b){
+        System.out.println("float-float argument");
+    }
+    public void add(double a , double b){
+        System.out.println("double-double argument");
     }
 }
+
 
 public class polymorphism {
     public static void main(String[] args) {
-        Student st = new Student("Sachin", "Mumbai", 21, 95, "A+");
-        st.disp();
+        
+        plsadd p= new plsadd();
+        p.add(10,20);
+        p.add(4.4f,5.5f);
+        p.add(2.0,2.0);
     }
+    
 }
