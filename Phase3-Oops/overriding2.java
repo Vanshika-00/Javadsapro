@@ -1,3 +1,5 @@
+// Example of method overriding with different types of planes
+
 class PlaneOR{
     void takeoff(){
         System.out.println("Plane is taking off");
@@ -72,7 +74,7 @@ public class overriding2 {
         a.allowPlane(c);
         a.allowPlane(f);
 
-        
+
 
     }
     
