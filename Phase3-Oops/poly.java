@@ -4,11 +4,11 @@ class Person {
     public int age;
 }
 
-class Student extends Person {
+class StudentPoly extends Person {
     public int marks;
     public String grade;
 
-    Student(String name, String address, int age, int marks, String grade) {
+    StudentPoly(String name, String address, int age, int marks, String grade) {
         this.name = name;
         this.address = address;
         this.age = age;
@@ -27,7 +27,7 @@ class Student extends Person {
 
 public class poly {
     public static void main(String[] args) {
-        Student st = new Student("Sachin", "Mumbai", 21, 95, "A+");
+        StudentPoly st = new StudentPoly("Sachin", "Mumbai", 21, 95, "A+");
         st.disp();
     }
 }
