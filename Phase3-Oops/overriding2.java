@@ -72,6 +72,8 @@ public class overriding2 {
         a.allowPlane(c);
         a.allowPlane(f);
 
+        
+
     }
     
 }
