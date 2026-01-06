@@ -1,3 +1,4 @@
+// Example of Method Overriding with Different Animals in a Forest
 class AnimalOR2{
     public void eat(){
         System.out.println("Animal is eating");
