@@ -1,3 +1,5 @@
+//If marks of any student is less than 35 , print it's roll no (index)
+
 public class ques1{
     public static void main(String[] args) {
         
