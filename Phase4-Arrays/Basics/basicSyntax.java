@@ -22,6 +22,8 @@ public class basicSyntax{
         arr[0]+=10;
         System.out.println("\nUpdated first element: " + arr[0]);
 
+        System.out.println(arr);
+
 
     }
 }
