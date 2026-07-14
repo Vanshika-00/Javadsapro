@@ -31,27 +31,31 @@ public static void main(String[]args){
 
             //left to right
             for(int j=minc;j<=maxc;j++){
-                System.out.println(arr[minr][j]);
+                System.out.print(arr[minr][j]+ " ");
             } minr++;
+            
 
             //top to bottom
             if(minr>maxr || minc>maxc) break;
             for(int i=minr;i<=maxr;i++){
-                System.out.println(arr[i][maxc]);
+                System.out.print(arr[i][maxc]+ " ");
             } maxc--;
+            
 
             //right to left
             if(minr>maxr || minc>maxc) break;
             for(int j=maxc;j>=minc;j--){
-                System.out.println(arr[maxr][j]);
+                System.out.print(arr[maxr][j]+ " ");
             } maxr--;
+            
 
 
            //top to bottom
             if(minr>maxr || minc>maxc) break;
             for(int i=maxr;i>=minr;i--){
-                System.out.println(arr[i][minc]);
-            } minc--;
+                System.out.print(arr[i][minc]+ " ");
+            } minc++;
+            
         }
 
 }
